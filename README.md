@@ -1,3 +1,3 @@
-Hey! I’m Mariano Rivas, multimedia artist and creative developer. I'm currently working as a Front-end Tech Lead at [TrueNorth](https://truenorth.co). By having a generalist technical skillset, I'm able to participate in a variety of projects in different stages of the creative process, from conception to execution. I host all of my personal projects here.
+Hey! I’m Mariano Rivas, multimedia artist and creative developer. I work as a Front-end Tech Lead at [TrueNorth](https://truenorth.co). By having a generalist technical skillset, I'm able to participate in a variety of projects in different stages of the creative process, from conception to execution. I host all of my personal projects here.
 
 Follow me on [Twitter](https://twitter.com/colormono) or [Instagram](https://instagram.com/colormono)<!--  or [Behance](https://behance.com/colormono). -->
